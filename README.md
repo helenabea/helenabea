@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Helena 👋
 
-<!--
-**helenabea/helenabea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computational biologist working on genomics and gene regulation.
 
-Here are some ideas to get you started:
+Currently I am a postdoctoral researcher at Boston Children's Hospital / Harvard Medical School, where I work on single-cell and epigenomic datasets to reconstruct gene regulatory networks during vertebrate development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I enjoy working on
+
+🧬 End-to-end genomics analysis
+- from sequencing data processing to biological interpretation  
+
+🧠 Regulatory genomics  
+- integrating RNA-seq, ATAC-seq and ChIP-seq to study transcriptional regulation  
+
+🧫 Single-cell and multi-omic data  
+- scRNA-seq, scATAC-seq and multiome analysis  
+
+💻 Computational infrastructure  
+- building reproducible pipelines and organizing computational workflows for research labs  
+
+📚 Workshops and teaching materials  
+- tutorials and hands-on resources for genomics analysis
