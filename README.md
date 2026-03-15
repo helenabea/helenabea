@@ -6,7 +6,7 @@ Currently I am a postdoctoral researcher at Boston Children's Hospital / Harvard
 
 ## What I enjoy working on
 
-🧬 End-to-end genomics analysis
+🧬 End-to-end genomics analysis  
 🧠 Regulatory genomics  
 🧫 Single-cell and multi-omic data  
 💻 Computational infrastructure  
